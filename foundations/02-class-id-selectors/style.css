@@ -1,0 +1,18 @@
+.myClass {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#myFirstId {
+    color: blue;
+    font-size: 36px;
+}
+
+#mySecondId {
+    font-size: 24px;
+}
+ #myThirdId {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+ }
